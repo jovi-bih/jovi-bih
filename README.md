@@ -1,4 +1,4 @@
-<h1 align="center">Hi everyone 👋, I'm Bih Asaah</h1>   [![](https://visitcount.itsvg.in/api?id=jovi-bih&icon=0&color=0)](https://visitcount.itsvg.in) 
+<h1 align="center">Hi everyone 👋, I'm Bih Asaah</h1>   
 <h3 align="center">A passionate DevOps Engineer from Canada</h3>
 
 - 🔭 I’m currently working on **CI/CD Automation**
