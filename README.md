@@ -1,9 +1,17 @@
-<h1 align="center">Hi everyone 👋, I'm Bih Asaah</h1>
+<h1 align="center">Hi 👋, I'm Bih Asaah</h1>
 <h3 align="center">A passionate DevOps Engineer from Canada</h3>
+
+- 🔭 I’m currently working on **CI/CD Automation**
 
 - 🌱 I’m currently learning **Azure DevOps, AWS Cloud Practitioner Certification, K8s Certification**
 
+- 👨‍💻 All of my projects are available at [https://github.com/jovi-bih](https://github.com/jovi-bih)
+
+- 💬 Ask me about **DevOps & Cloud DevOps**
+
 - 📫 How to reach me **bihjovi22@gmail.com**
+
+- ⚡ Fun fact **I love cooking**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
