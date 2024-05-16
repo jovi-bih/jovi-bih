@@ -1,4 +1,4 @@
-<h1 align="center">Hi everyone 👋, I'm Bih Asaah</h1>
+<h1 align="center">Hi everyone 👋, I'm Bih Asaah</h1>    [![](https://visitcount.itsvg.in/api?id=jovi-bih&icon=0&color=0)](https://visitcount.itsvg.in)
 <h3 align="center">A passionate DevOps Engineer from Canada</h3>
 
 - 🔭 I’m currently working on **CI/CD Automation**
@@ -12,6 +12,12 @@
 - 📫 How to reach me **bihjovi22@gmail.com**
 
 - ⚡ Fun fact **I love cooking**
+
+  ##About Me
+  
+I am a passionate and results-driven DevOps Platform Engineer with 2 years of professional experience, I possess a profound passion for DevOps and automation, underpinned by a comprehensive mastery of technologies including Kubernetes, Azure, Terraform, Ansible, and SQL Server. My expertise extends across a broad spectrum of platforms and tools, including Docker Swarm, AWS, Jenkins, Prometheus, Grafana, KEDA, Traefik, Istio, SonarQube, Nexus, and Git, positioning me as a versatile and adept engineer in the field.
+
+My expertise lies in automating and streamlining the processes between software development and IT operations teams to improve the speed, quality, and efficiency of software delivery.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,6 +36,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jovi-bih&theme=swift&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=jovi-bih&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
